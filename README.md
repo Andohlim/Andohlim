@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andohlim
-- 👀 I’m interested in writing codes.
-- 🌱 I’m currently learning about software development 
-- 💞️ I’m looking to collaborate on anything about software development 
+- 👋 Hi, I’m Andoh .O. Jamal 
+- 👀 I’m interested in writing codes and analysing data.
+- 🌱 I’m currently learning about software development and data analysis 
+- 💞️ I’m looking to collaborate on anything about software development and data analysis. 
 - 📫 How to reach me?,07080058026 0r andohomotayosavage@gmail.com 
 
 <!---
